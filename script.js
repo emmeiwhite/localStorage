@@ -22,3 +22,4 @@ console.log(name2);
 
 localStorage.clear(); // deletes everything from the localStorage database 
 console.log(localStorage.getItem("age"));
+
